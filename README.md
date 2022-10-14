@@ -1,3 +1,3 @@
 # LFSC
 
-The code is coming soon
+Our manuscript is under peer-review. The code is coming soon
